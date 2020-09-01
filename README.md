@@ -1,7 +1,7 @@
 Implementasi Send Email RabbitMQ Queue driver untuk Laravel
 ======================
 
-##Clone 
+## Clone 
 ```
 git clone https://github.com/agung3wi/laravel-rabbitmq.git && cd laravel-rabbitmq
 ```
